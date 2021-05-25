@@ -191,6 +191,7 @@ module.exports = {
           collapsable: false,
           children: [
             ['/', 'Introduction'],
+            ['/general/where-to-start', 'Where to start?'],
             ['/general/installation', 'Installation'],
             ['/general/key-concepts', 'Key concepts'],
             ['/general/enterprise', 'Enterprise']
